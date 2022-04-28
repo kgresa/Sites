@@ -2,7 +2,7 @@
 # .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
-!.vscode/launch.json
+!.vscode/launch.
 !.vscode/extensions.json
 
 #img 
@@ -10,7 +10,11 @@
 *.png
 img/
 
+---
+
 # Logs
 *.log
+
+---
 
 password.txt
